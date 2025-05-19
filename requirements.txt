@@ -7,3 +7,4 @@ scikit-learn
 plotly.express
 nbformat>=4.2.0
 dash
+seaborn
