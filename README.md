@@ -22,6 +22,11 @@
 ## Visualizações / Dashboard
 
 ![image](https://github.com/user-attachments/assets/81168090-44ed-4908-82d6-19621d7840cc)
+![image](https://github.com/user-attachments/assets/c5f80337-d65a-466a-b117-7e22d7d27e24)
+![image](https://github.com/user-attachments/assets/c5a663f8-186b-46b7-91db-231274e2be53)
+![image](https://github.com/user-attachments/assets/e2ac7f6d-faae-4359-b781-0e6d8929f406)
+
+
 
 ## Requisitos
 
@@ -39,6 +44,8 @@
    git clone https://github.com/PierreOF/desafio-data-engineer
    cd desafio-data-engineer
    ```
+
+## Setup do ambiente
 
 2. Faça o download do dataset do Kaggle
 Link para o dataset: https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce
