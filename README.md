@@ -38,3 +38,5 @@ Windows (na mesma pasta do venv)
    ```bash
    pip install -r requirements.txt
    ```
+
+3. Execute o arquivo desafio-data-engineer.ipynb com o ambiente do interpretador python corretamente selecionado
