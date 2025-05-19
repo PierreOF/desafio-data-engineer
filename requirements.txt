@@ -3,7 +3,7 @@ pandas==2.2.3
 db-sqlite3==0.0.1
 numpy==2.2.5
 matplotlib==3.10.3
-sklearn
+scikit-learn
 plotly.express
 nbformat>=4.2.0
 dash
