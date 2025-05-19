@@ -1,3 +1,12 @@
+## Requisitos
+
+* Python 3.7+
+* Pandas
+* sqlite3
+* matplotlib
+* Dash
+* NumPy
+
 ## Instalação
 
 1. Clone o repositório:
