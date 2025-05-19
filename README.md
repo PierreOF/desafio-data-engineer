@@ -23,20 +23,15 @@
 
 ![image](https://github.com/user-attachments/assets/81168090-44ed-4908-82d6-19621d7840cc)
 
-
-
-
-
 ## Requisitos
 
 * Python 3.7+
-* Pandas
+* Jupyter
 * sqlite3
-* matplotlib
-* Dash
-* NumPy
 
 ## Instalação
+
+
 
 1. Clone o repositório:
 
@@ -44,6 +39,12 @@
    git clone https://github.com/PierreOF/desafio-data-engineer
    cd desafio-data-engineer
    ```
+
+2. Faça o download do dataset do Kaggle
+Link para o dataset: https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce
+
+3. extraia as tabelas .csv e crie uma pasta chamada /data no diretorio do repositorio
+ 
 ## Criando ambiente de execução
 
    ```bash
@@ -62,10 +63,10 @@ Windows (na mesma pasta do venv)
    venv/scripts/activate
    ```
 
-2. Instale as dependências:
+4. Instale as dependências:
 
    ```bash
    pip install -r requirements.txt
    ```
 
-3. Execute o arquivo desafio-data-engineer.ipynb com o ambiente do interpretador python corretamente selecionado
+5. Execute o arquivo desafio-data-engineer.ipynb com o ambiente do interpretador python corretamente selecionado
